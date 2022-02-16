@@ -18,3 +18,5 @@ printf("Sua área é %lf", a);
 //tan( )	Tangente
 //log( )	logaritmo natural
 //log10( )	logaritmo base 10
+
+//"#define PI 3.14159" (esse valor permanece o mesmo durante todo o tempo!!!
