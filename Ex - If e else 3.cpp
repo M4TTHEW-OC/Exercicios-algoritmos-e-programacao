@@ -6,7 +6,7 @@ int main(){
 	scanf("%f", &a);
 	printf("digite sua nota 2 a seguir: ");
 	scanf("%f", &b);
-	printf("digite sua frequência a seguir: ");
+	printf("digite sua frequÃªncia a seguir: ");
 	scanf("%f", &c);
 	
 	media = a + b;
