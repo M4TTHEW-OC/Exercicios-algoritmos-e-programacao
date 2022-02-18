@@ -4,3 +4,7 @@
 // cd git
 // cd .. #VOLTA
 // git clone https://github.com/joycitta-siqueira/algoritmoeprogramacao.git
+// git status
+// git add . 
+// git commit -m "nome do arquivo"
+// git push origin main
