@@ -4,6 +4,7 @@
 // cd git
 // cd .. #VOLTA
 // git clone https://github.com/joycitta-siqueira/algoritmoeprogramacao.git
+// cd "Pasta clonada"
 // git status
 // git add . 
 // git commit -m "nome do arquivo"
