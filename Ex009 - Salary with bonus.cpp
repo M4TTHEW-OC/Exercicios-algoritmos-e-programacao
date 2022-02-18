@@ -12,5 +12,5 @@ int main(){
 	
 	salary = (0.15 * sale + sal);
 	
-	printf("Total = R$ %f", salary);
+	printf("Total = R$ %.2f", salary);
 }
