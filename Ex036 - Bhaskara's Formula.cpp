@@ -3,11 +3,11 @@
 
 int main(){
 	double a, b, c, delta, x1, x2;
-	printf("Digite o a da equação: ");
+	printf("Digite o a da equaÃ§Ã£o: ");
 	scanf("%lf", &a);
-	printf("Digite o b da equação: ");
+	printf("Digite o b da equaÃ§Ã£o: ");
 	scanf("%lf", &b);
-	printf("Digite o c da equação: ");
+	printf("Digite o c da equaÃ§Ã£o: ");
 	scanf("%lf", &c);
 	
 	delta = pow(b, 2) - (4 * a * c);
